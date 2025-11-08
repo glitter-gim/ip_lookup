@@ -6,6 +6,8 @@ This module retrieves geolocation, ASN, organization, and privacy information fo
 It aggregates data from multiple **free public APIs** — [`ipapi.co`](https://ipapi.co/api/), [`ipinfo.io`](https://ipinfo.io/developers), and [`BigDataCloud`](https://www.bigdatacloud.com/ip-geolocation-apis/free-ip-geolocation-api) — and merges them into a unified JSON schema.  
 It works **immediately without any account or API key**, while supporting optional tokens for enhanced accuracy.
 
+[GitHub-hosted IP Lookup Backend Source](https://github.com/glitter-gim/ip_lookup)
+
 ---
 
 ## 🚀 Features
