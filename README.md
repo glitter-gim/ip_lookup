@@ -48,4 +48,5 @@ print(result)
 > **Copyright © 2025 glitter.kr**  
 > Author: glitter💫  
 > Trust Chain: DNSSEC · DANE · HSTS · CSP  
-> [GitHub-hosted IP_Lookup](https://github.com/glitter-gim/ip_lookup)
+> [GitHub-hosted IP Lookup Backend Source](https://github.com/glitter-gim/ip_lookup)
+
