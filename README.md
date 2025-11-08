@@ -42,13 +42,11 @@ from core.ip_lookup import lookup_ip
 
 result = asyncio.run(lookup_ip("8.8.8.8"))
 print(result)
-
+```
 ---
 
-
-
-Copyright © 2025 glitter.kr
+## ⚙️Copyright © 2025 glitter.kr
 Author: glitter💫
 Trust Chain: DNSSEC · DANE · HSTS · CSP
-GitHub-hosted IP Lookup Backend Source
+[GitHub-hosted IP Lookup Backend Source](https://github.com/glitter-gim/ip_lookup)
 
