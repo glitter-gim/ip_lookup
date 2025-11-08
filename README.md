@@ -52,3 +52,6 @@ Author: glitter💫
 Trust Chain: DNSSEC · DANE · HSTS · CSP
 [GitHub-hosted IP Lookup Backend Source](https://github.com/glitter-gim/ip_lookup)
 
+## 🔗 Reference Link  
+[PHP Client Implementation — ip_lookup_php](https://github.com/glitter-gim/ip_lookup_php)
+
